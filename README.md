@@ -1,16 +1,14 @@
 # Pixel Art Maker Project
-
-## Table of Contents
-
-* [Instructions](#instructions)
-* [Contributing](#contributing)
+https://godwinmaga6.github.io/Pixel-art-maker/
 
 ## Instructions
 
-To get started, open `designs.js` and start building out the app's functionality.
+To get started, click the above link to view the completed Pixel-art-maker page on a web browser.
 
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
+Create a table by selecting your desired numbers of columns and rows. 
+
+Pick a color and apply it to the cell so as to form your desired pixel art.
 
 ## Contributing
 
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
+This repository is the completed code from the Udacity starter code final project, phase 1 of the Front-End-Web-Development course.
